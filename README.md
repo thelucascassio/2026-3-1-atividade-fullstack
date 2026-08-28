@@ -11,11 +11,14 @@
 
 ---
 ## Relato da atividade
-Nome do aluno e seu link do linkedin e github
+Lucas Cássio Araújo Oliveira
+GitHub: www.github.com/thelucascassio
+LinkedIn: www.linkedin.com/in/lucas-cássio-oliveira-014a39343
 
 ### Componentes e tecnologias
-
-quais tecnologia utilizdas?
+* **Frontend:** Next.js, React, Tailwind CSS
+* **Backend:** NestJS (API RESTful), TypeScript, Tailwind CSS
+* **Banco de Dados:** SQLite via Prisma ORM
 
 ### Agente de IA
 

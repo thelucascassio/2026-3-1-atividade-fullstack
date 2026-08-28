@@ -1,19 +1,19 @@
-# 2026.3.1 - POS - Frondend web e Backend api restfull
+# 2026.3.1 - POS - Frondend web e Backend API restful
 
 ## Informações gerais
 
 - **Público alvo**: alunos da disciplina de **Programação orientada a serviços** do curso de [Infoweb](https://diatinf.ifrn.edu.br/cursos/tecnico-em-informatica-para-internet/) na [DIATINF](https://diatinf.ifrn.edu.br/) no [CNAT-IFRN](https://portal.ifrn.edu.br/campus/natalcentral/)
 - **Professor**: [L A Minora](https://github.com/leonardo-minora/)
 - **Objetivo**:
-  1. Atividade avaliativa para construção de aplicativo com frontend web e backend api restfull
+  1. Atividade avaliativa para construção de aplicativo com frontend web e backend api restful
   
 ---
 ## Tarefas
-- [ ] Fork desse respositório;
-- [ ] Atualize os textos de README.md com seu nome e links do github e linkedin;
-- [ ] Decida e atualize em README.md o texto sobre os componentes/tecnologias;
+- [X] Fork desse respositório;
+- [X] Atualize os textos de README.md com seu nome e links do github e linkedin;
+- [X] Decida e atualize em README.md o texto sobre os componentes/tecnologias;
 - [ ] Construa / Defina o protótipo de intergafe gráfica web para o aplicativo;
-- [ ] Construa o frontend web e a backend api restfull;
+- [ ] Construa o frontend web e a backend api restful;
 - [ ] Atualize os textos de README.md com as suas interações com a IA;
 - [ ] Crie um víveo do uso do aplicativo e publique no prróprio github;
 - [ ] Ataulize o texto e o link do víveo em README.md sobre a execução do aplicativo.
