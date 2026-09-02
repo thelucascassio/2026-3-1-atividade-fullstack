@@ -12,11 +12,11 @@
 - [X] Fork desse respositório;
 - [X] Atualize os textos de README.md com seu nome e links do github e linkedin;
 - [X] Decida e atualize em README.md o texto sobre os componentes/tecnologias;
-- [ ] Construa / Defina o protótipo de intergafe gráfica web para o aplicativo;
-- [ ] Construa o frontend web e a backend api restful;
+- [X] Construa / Defina o protótipo de intergafe gráfica web para o aplicativo;
+- [X] Construa o frontend web e a backend api restful;
 - [ ] Atualize os textos de README.md com as suas interações com a IA;
 - [ ] Crie um víveo do uso do aplicativo e publique no prróprio github;
-- [ ] Ataulize o texto e o link do víveo em README.md sobre a execução do aplicativo.
+- [ ] Ataulize o texto e o link do vídeo em README.md sobre a execução do aplicativo.
 
 ---
 ## Observações importantes
