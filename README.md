@@ -51,6 +51,9 @@ cd web
 npm install
 npm run dev
 
-Vídeo do projeto em execução
+Vídeos do projeto em execução - Desktop//Mobile
+https://github.com/user-attachments/assets/503bbb6c-18e2-4794-a9df-c4acc2c56b98
+
+https://github.com/user-attachments/assets/9c8ca0cc-c7c2-4a05-bfb9-5363d57f1ded
 
 ---
