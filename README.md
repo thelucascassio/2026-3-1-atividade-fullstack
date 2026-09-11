@@ -11,12 +11,12 @@
 
 ---
 ## Relato da atividade
-Lucas Cássio Araújo Oliveira
-GitHub: www.github.com/thelucascassio
-LinkedIn: www.linkedin.com/in/lucas-cássio-oliveira-014a39343
+* Lucas Cássio Araújo Oliveira
+* GitHub: www.github.com/thelucascassio
+* LinkedIn: www.linkedin.com/in/lucas-cássio-oliveira-014a39343
 
 ### Componentes e tecnologias
-* **Frontend:** Next.js, React, Tailwind CSS
+* **Frontend:** Next.js, React, Node.js
 * **Backend:** NestJS (API RESTful), TypeScript, Tailwind CSS
 * **Banco de Dados:** SQLite via Prisma ORM
 
@@ -24,10 +24,33 @@ LinkedIn: www.linkedin.com/in/lucas-cássio-oliveira-014a39343
 
 Qual e como utilizou a IA?
 
+O agente de IA utilizado para elaborar a atividade foi o Gemini. Solicitei ao agente para me conduzir no passo a passo da atividade para que eu não me perdesse nem seguisse uma ordem errada.
+Também utilizei-o para elaborar a arquitetura e me orientar em relação à estruturação das pastas do sistema. Utilizei o Gemini para tirar dúvidas do porquê a aplicação estava dando erro (debuggar), por exemplo: havia um erro nas portas do Codespaces e o Gemini me orientou a alterar a visibilidade da porta no terminal. Além disso, pude ter seu auxílio para desenvolver a estruturação da API RESTful e refatorar o layout para garantir responsividade completa (Mobile-First e depois Desktop).
 
 ### Execução do projeto
 
-como executar o projeto?
-vídeo do projeto em execução
+Como executar o projeto?
+
+Siga os passos abaixo para rodar a aplicação em seu ambiente local:
+
+#### 1. Clonar o repositório
+```bash
+git clone [https://github.com/thelucascassio/2026-3-1-atividade-fullstack.git](https://github.com/thelucascassio/2026-3-1-atividade-fullstack.git)
+cd 2026-3-1-atividade-fullstack
+```
+
+#### 2. Configurar e rodar o Backend
+cd api
+npm install
+npx prisma generate
+npx prisma db push # ou npx prisma migrate dev
+npm run start:dev
+
+#### 3. Configurar e rodar o Frontend
+cd web 
+npm install
+npm run dev
+
+Vídeo do projeto em execução
 
 ---
